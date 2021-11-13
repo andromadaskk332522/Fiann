@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/andromadaskk332522/Fiann",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
